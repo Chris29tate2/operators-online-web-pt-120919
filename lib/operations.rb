@@ -8,8 +8,8 @@ end
 
 
 def not_safe?(speed)
-  return true if 
-	
+  return true if "spped is greater" than 60
+	return false if 
 end
 	
 
