@@ -8,7 +8,7 @@ end
 
 def not_safe?(speed)
   return true if speed is greater than (60)
-	else answer = 79) 
+	answer = (79) 
 end
 	
 
